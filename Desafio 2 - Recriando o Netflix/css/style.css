@@ -103,6 +103,14 @@ header .container{
 .principal .container{
     width: 65%;
 }
+
+.foot{
+    font-style: italic;
+    text-align: center;
+    padding: 40px;
+    color: var(--rosa);
+}
+
 /*div carrossel*/
 .box-livro{
     height: 100%;
